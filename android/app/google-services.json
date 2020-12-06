@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1091984396167",
+    "firebase_url": "https://vndiaoc-a462a.firebaseio.com",
+    "project_id": "vndiaoc-a462a",
+    "storage_bucket": "vndiaoc-a462a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1091984396167:android:7b45e80e0c3d64e8048d22",
+        "android_client_info": {
+          "package_name": "webview.food.vndiaoc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1091984396167-66osqn9gvp61omkd6a0dviq6l2c6rr3o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJrQL0yjl2KoKhilWlv0iSoJ_fGQWjh6k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1091984396167-66osqn9gvp61omkd6a0dviq6l2c6rr3o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
